@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://www.24h.com.vn/gia-vang-hom-nay-c425.html",
+        "xpath": "/html/body/div[2]/section[2]/main/section[2]/div/div/div/section[2]/div/div[1]/article/header/h3/a"
+    },
+    {
+        "url": "https://www.24h.com.vn/gia-vang-hom-nay-c425.html",
+        "xpath": "/html/body/div[2]/section[2]/main/section[2]/div/div/div/section[2]/div/div[2]/article/header/h3/a"
+    },
+    {
+        "url": "https://www.24h.com.vn/gia-vang-hom-nay-c425.html",
+        "xpath": "/html/body/div[2]/section[2]/main/section[2]/div/div/div/section[3]/div[1]/article/figcaption/header/h3/a"
+    }
+]
