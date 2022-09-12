@@ -1,5 +1,6 @@
 import json
 from datetime import datetime
+import requests
 
 import models
 from database import SessionLocal, engine

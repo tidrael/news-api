@@ -1,6 +1,10 @@
+# FastAPI
 fastapi
 uvicorn
 python-multipart
 sqlalchemy
-jinjia2
-psycopg2
+Jinja2
+
+# Web driver
+selenium
+webdriver-manager

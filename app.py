@@ -47,9 +47,6 @@ def get_all_news(db: Session = Depends(get_db)):
     return news
 
 
-
-
-
 @app.get("/get-by-day", response_model=List[News], status_code=status.HTTP_200_OK)
 def get_one_day(
     day: str, classification: Optional[str] = None, db: Session = Depends(get_db)
